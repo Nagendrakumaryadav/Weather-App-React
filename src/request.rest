@@ -1,0 +1,1 @@
+GET https://api.openweathermap.org/data/2.5/forecast/daily?q=dhubri&cnt=10&units=metric&appid=58b6f7c78582bffab3936dac99c31b25
